@@ -12,7 +12,7 @@ Slip detection and control for robotic manipulation
         <img src="miniature.gif" width="420" alt="Slides">
       </a>
       <br/>
-      <em>Cliquez pour voir les slides complètes</em>
+      <em>View the slides (from PhD defense)(</em>
     </td>
   </tr>
 </table>
